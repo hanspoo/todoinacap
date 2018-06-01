@@ -12,14 +12,18 @@ Para ejecutar este proyecto en tu máquina debes:
 1. Como prerequisito debes tener instalado nodejs y yarn.
 
 2. Clonarlo:
+
 git clone https://github.com/hanspoo/todoinacap
 
 3. Te cambias al proyecto:
+
 cd todoinacap/
 
 4. Instalas las dependencias con yarn o npm:
+
 yarn install
 
 5. y lo ejecutas:
+
 yarn start
 
