@@ -9,7 +9,7 @@ Para ejecutar este proyecto en tu máquina:
 
 1.  Tener instalado nodejs y yarn.
 
-2.  Clonarlo este repositorio:  
+2.  Clonar este repositorio:  
 git clone https://github.com/hanspoo/todoinacap
 3.  Ir al proyecto:  
 cd todoinacap/
