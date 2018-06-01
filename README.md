@@ -23,5 +23,5 @@ yarn install
 5.  y lo ejecutas:
 yarn start
 
-Suerte, 
+Mucha Suerte, 
 Hans
